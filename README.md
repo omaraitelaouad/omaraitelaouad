@@ -1,5 +1,5 @@
 <h1>Hello, Im Omar 👋</h1>
-<h2>My Website: <a>omaraitelaouad.github.io</a></h2>
+<h2>My Website: <ul><li><a>omaraitelaouad.github.io</a></li></ul></h2>
 <!--
 **omaraitelaouad/omaraitelaouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
