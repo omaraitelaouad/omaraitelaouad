@@ -1,5 +1,5 @@
 <h1>Hello, Im Omar 👋</h1>
-<h2  class="yo" onclick="document.location = 'https://omaraitelaouad.github.io/'>My Website: omaraitelaouad.github.io</h2>
+<h2 class="yo" onclick="document.location = 'https://omaraitelaouad.github.io/'>My Website: omaraitelaouad.github.io</h2>
 <style>
   .yo {
     color:blue;
